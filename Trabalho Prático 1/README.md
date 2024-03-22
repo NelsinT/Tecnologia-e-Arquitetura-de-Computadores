@@ -1,3 +1,4 @@
+link projeto tinkercard ( simulador ) : https://www.tinkercad.com/things/2dQVGgui7C2-powerful-albar/editel?returnTo=%2Fdashboard&sharecode=-_rq3zZYmU6SaPWAel6G2_XLIyFzF6oXpMwEESA8WHQ 
 Este trabalho tem como objetivo desenvolver uma aplicação para gestão de parque de estacionamento para a unidade curricular “Tecnologia e Arquitetura de Computadores ” , este trabalho foi executado com os conhecimentos adquiridos anteriormente nos primeiros 4 trabalhos , e juntando todo esse conhecimento é possível. 
 
 Para a realização do trabalho comecei por montar um circuito muito primitivo no tinkercard para começar a estruturar ideias na minha cabeça para daí prosseguir com a realização do algoritmo e fluxograma.
@@ -13,4 +14,5 @@ Para a realização do tinker card foi utilizado os seguintes componentes:
 •	1 foto resistor 
 •	1 butão
 •	Diversos cabos para efetuar as ligações
+
 
